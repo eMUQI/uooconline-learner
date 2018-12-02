@@ -8,7 +8,7 @@
 1. 下载项目源码
 2. 进入项目文件夹，`npm i`
 3. 编辑`index.js`，设置 Cookie 和 课程ID
-	- Cookie 可登陆后在 F12开发人员工具 查看 Network 选项卡并刷新页面得到
+	- Cookie 可登陆后在 F12开发人员工具 查看 Network 选项卡并刷新页面得到(或者再Console中输入"document.cookie"来获取cookie)
 	![](https://i.loli.net/2018/11/03/5bdd197e657e9.png)
 	-  课程ID 可在课程详情页由URL得到
 	![](https://i.loli.net/2018/11/03/5bdd197e6b77a.png)
